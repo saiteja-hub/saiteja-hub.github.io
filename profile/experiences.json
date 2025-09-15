@@ -5,11 +5,11 @@
             "subtitle": "Vuegen Technologies",
             "workType": "Full-time",
             "workDescription": [
-                "Gathered and documented business requirements, conducted gap and root cause analysis on power utility data to identify inefficiencies in grid operations, driving system and process enhancements that reduced operational bottlenecks by 6%."
-                "Optimized SQL Server queries to retrieve and cleanse 100K+ utility power records with 98% accuracy, reducing query run time by 5% while ensuring data integrity aligned with regulatory compliance standards."
-                "Leveraged Python with ARIMA and Prophet models to perform time series forecasting on utility power event data, uncovering trends and improving demand planning accuracy by 6%, enabling more strategic energy management decisions."
-                "Developed Power BI dashboards to monitor KPIs such as grid reliability, maintenance backlog, and O&M costs boosting real time data visibility by 10% and accelerating decision making for executives and field operations by 5%."
-                "Conducted data analysis and predictive modeling using python on data using regression analysis and time series techniques such as ARIMA, Prophet, LSTM to uncover consumption patterns with an accuracy of 81%, improving grid planning and resource allocation, and achieving a 2% increase in sales demand forecasting accuracy."
+                "Gathered and documented business requirements, conducted gap and root cause analysis on power utility data to identify inefficiencies in grid operations, driving system and process enhancements that reduced operational bottlenecks by 6%.",
+                "Optimized SQL Server queries to retrieve and cleanse 100K+ utility power records with 98% accuracy, reducing query run time by 5% while ensuring data integrity aligned with regulatory compliance standards.",
+                "Leveraged Python with ARIMA and Prophet models to perform time series forecasting on utility power event data, uncovering trends and improving demand planning accuracy by 6%, enabling more strategic energy management decisions.",
+                "Developed Power BI dashboards to monitor KPIs such as grid reliability, maintenance backlog, and O&M costs boosting real time data visibility by 10% and accelerating decision making for executives and field operations by 5%.",
+                "Conducted data analysis and predictive modeling using python on data using regression analysis and time series techniques such as ARIMA, Prophet, LSTM to uncover consumption patterns with an accuracy of 81%, improving grid planning and resource allocation, and achieving a 2% increase in sales demand forecasting accuracy.",
                 "Engineered scalable ETL pipelines using Apache Airflow and Python to orchestrate ingestion, transformation, and loading of multi source power utility data into a centralized data warehouse and integrated with Power BI for real time dashboarding of grid reliability, energy consumption, and O&M metrics, reducing reporting latency by 4%."
             ],
             "dateText": "03/2024 – Present"
